@@ -43,4 +43,4 @@ Tenho interesses nas areas de tecnologia e inovação, CyberSegurança e Games. 
 
 - [GitHub](https://github.com/GMiranda21ML)
 
-- [Linkedin](www.linkedin.com/in/mucarbel)
+- [Linkedin](https://www.linkedin.com/in/mucarbel/)
