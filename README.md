@@ -43,6 +43,4 @@ Tenho interesses nas areas de tecnologia e inovação, CyberSegurança e Games. 
 
 - [GitHub](https://github.com/GMiranda21ML)
 
-- [Linkedin](www.linkedin.com/in/gabriel-miranda-mucarbel-de-lima-b952802b6)
-
-
+- [Linkedin](www.linkedin.com/in/mucarbel)
