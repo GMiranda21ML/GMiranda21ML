@@ -1,22 +1,48 @@
 # GABRIEL MIRANDA MUCARBEL DE LIMA
-## Sobre mim
+## 😁 Sobre mim
 
 Olá, me chamo Gabriel Miranda Mucarbel de Lima, tenho 19 anos e sou Pernambucano nascido em Olinda.
 
-Estou fazendo Ciência da Computação na Cesar School, no 1º periodo. Já estou estagiando na empresa MV Sistemas LTDA como dev.
+Estou cursando o 1º periodo de Ciência da Computação na [Cesar School](https://www.cesar.school/), e estou estagiando na empresa MV Sistemas LTDA como dev.
 
-### Linguagens que eu sei
-- Python
-- Java
-- SQL e PL/SQL
-- C#
-- HTML/CSS/JS
+### 💻 Linguagens e Tecnologias que uso
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 -----
 
-### Minhas redes sociais
-[Instagram](https://instagram.com/gabriel.miranda21)
+### 🔧 Ferramentas que uso
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![SQLTools](https://img.shields.io/badge/-SQLTools-026E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)
 
-[GitHub](https://github.com/GMiranda21ML)
+----
 
-[Linkedin](www.linkedin.com/in/gabriel-miranda-mucarbel-de-lima-b952802b6)
+### 🗺️ Meus interesses
+Tenho interesses nas areas de tecnologia e inovação, CyberSegurança e Games. Meu objetivo é me tornar um grande desenvolvedor algum dia.
+
+----
+
+### 😎 Minhas Habilidades
+- **Trrabalho em Equipe:** Trabalho em equipe é comigo mesmo, sou um cara muito participativo, dedicado e prestativo. 
+- **Comunicação:** Sou uma pessoa muito comunicativa, sempre tenho um bom papo a qualquer hora.
+- **Aprendizagem Rapida:** Pessoalmente, adquiro conhecimento muito rapido com bastante facilidade, em momentos de crise com certeza irei resolver o problema independente de qual seja. 
+
+
+### 🌐 Minhas redes sociais: 
+- [Instagram](https://instagram.com/gabriel.miranda21)
+
+- [GitHub](https://github.com/GMiranda21ML)
+
+- [Linkedin](www.linkedin.com/in/gabriel-miranda-mucarbel-de-lima-b952802b6)
+
+
