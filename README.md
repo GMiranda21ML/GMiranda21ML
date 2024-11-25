@@ -1,4 +1,5 @@
-# GABRIEL MIRANDA MUCARBEL DE LIMA
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF7F&background=FFFFFF00&width=435&lines=GABRIEL+MIRANDA+MUCARBEL+DE+LIMA;Cesar+School+1º+Periodo)](https://git.io/typing-svg)
+
 ## 😁 Sobre mim
 
 Olá, me chamo Gabriel Miranda Mucarbel de Lima, tenho 19 anos e sou Pernambucano nascido em Olinda.
@@ -37,6 +38,17 @@ Tenho interesses nas areas de tecnologia e inovação, CyberSegurança e Games. 
 - **Comunicação:** Sou uma pessoa muito comunicativa, sempre tenho um bom papo a qualquer hora.
 - **Aprendizagem Rapida:** Pessoalmente, adquiro conhecimento muito rapido com bastante facilidade, em momentos de crise com certeza irei resolver o problema independente de qual seja. 
 
+----
+
+### 🐱 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GMiranda21ML&show_icons=true&theme=radical)
+
+---
+
+### 🏆 Linguagens de programação que mais uso
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMiranda21ML&layout=compact&theme=radical)
+
+----
 
 ### 🌐 Minhas redes sociais: 
 - [Instagram](https://instagram.com/gabriel.miranda21)
