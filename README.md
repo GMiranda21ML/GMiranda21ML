@@ -34,7 +34,7 @@ Tenho interesses nas areas de tecnologia e inovação, CyberSegurança e Games. 
 ----
 
 ### 😎 Minhas Habilidades
-- **Trrabalho em Equipe:** Trabalho em equipe é comigo mesmo, sou um cara muito participativo, dedicado e prestativo. 
+- **Trabalho em Equipe:** Trabalhar em equipe é comigo mesmo, sou um cara muito participativo, dedicado e prestativo. 
 - **Comunicação:** Sou uma pessoa muito comunicativa, sempre tenho um bom papo a qualquer hora.
 - **Aprendizagem Rapida:** Pessoalmente, adquiro conhecimento muito rapido com bastante facilidade, em momentos de crise com certeza irei resolver o problema independente de qual seja. 
 
