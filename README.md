@@ -51,8 +51,8 @@ Tenho interesses nas areas de tecnologia e inovação, CyberSegurança e Games. 
 ----
 
 ### 🌐 Minhas redes sociais: 
-- [Instagram](https://instagram.com/gabriel.miranda21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mucarbel/)
 
-- [GitHub](https://github.com/GMiranda21ML)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel.miranda21)
 
-- [Linkedin](https://www.linkedin.com/in/mucarbel/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GMiranda21ML)
