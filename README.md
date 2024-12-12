@@ -4,7 +4,7 @@
 
 Olá, me chamo Gabriel Miranda Mucarbel de Lima, tenho 19 anos e sou Pernambucano nascido em Olinda.
 
-Estou cursando o 1º periodo de Ciência da Computação na [Cesar School](https://www.cesar.school/), e estou estagiando na empresa MV Sistemas LTDA como dev.
+Estou cursando o 2º periodo de Ciência da Computação na [Cesar School](https://www.cesar.school/), e estou estagiando na empresa MV Sistemas LTDA como dev.
 
 ### 💻 Linguagens e Tecnologias que uso
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
