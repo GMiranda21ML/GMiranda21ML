@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF7F&background=FFFFFF00&width=435&lines=GABRIEL+MIRANDA+MUCARBEL+DE+LIMA;Cesar+School+1º+Periodo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF7F&background=FFFFFF00&width=435&lines=GABRIEL+MIRANDA+MUCARBEL+DE+LIMA;Cesar+School+2º+Periodo)](https://git.io/typing-svg)
 
 ## 😁 Sobre mim
 
@@ -8,6 +8,7 @@ Estou cursando o 2º periodo de Ciência da Computação na [Cesar School](https
 
 ### 💻 Linguagens e Tecnologias que uso
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -20,6 +21,7 @@ Estou cursando o 2º periodo de Ciência da Computação na [Cesar School](https
 
 ### 🔧 Ferramentas que uso
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![SQLTools](https://img.shields.io/badge/-SQLTools-026E8C?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -47,6 +49,13 @@ Tenho interesses nas areas de tecnologia e inovação, CyberSegurança e Games. 
 
 ### 🏆 Linguagens de programação que mais uso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMiranda21ML&layout=compact&theme=radical)
+
+----
+
+### 💪 Minhas contrbuições
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/GMiranda21ML?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=native&dark=true"/>
+</div>
 
 ----
 
