@@ -6,9 +6,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou **Gabriel Miranda Mucarbel de Lima**, estudante de **Ciência da Computação** na [Cesar School](https://www.cesar.school/), atualmente no **3º período**. 
+Olá! Sou **Gabriel Miranda Mucarbel de Lima**, estudante de **Ciência da Computação** na [Cesar School](https://www.cesar.school/), atualmente no **4º período**. 
 
-Sou apaixonado por tecnologia e inovação, com foco especial em **desenvolvimento de software**, **cibersegurança** e **inteligência artificial**. Busco constantemente aprender novas tecnologias e aplicar soluções criativas para resolver problemas complexos. 
+Sou apaixonado por tecnologia e inovação, com foco especial em **desenvolvimento de software* e **cibersegurança**. Busco constantemente aprender novas tecnologias e aplicar soluções criativas para resolver problemas complexos. 
 
 
 ### 🎯 Objetivos Profissionais
@@ -57,9 +57,7 @@ Sou apaixonado por tecnologia e inovação, com foco especial em **desenvolvimen
 
 - **Desenvolvimento Full-Stack**
 - **Cibersegurança**
-- **Inteligência Artificial**
 - **Inovação Tecnológica**
-- **APIs e Microserviços**
 
 ---
 
@@ -79,18 +77,6 @@ Sou apaixonado por tecnologia e inovação, com foco especial em **desenvolvimen
 - Controle de versão com Git e GitHub
 - Metodologias ágeis (Scrum, XP)
 - Desenvolvimento de APIs REST
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GMiranda21ML&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMiranda21ML&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-</div>
-
 
 ---
 
